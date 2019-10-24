@@ -1,0 +1,28 @@
+{
+    "installed": {
+        "PrepareStageCompactor": {
+            "filename": "/home/bazil/.cache/cura/3.6/cura_packages/PrepareStageCompactor.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Provides a more compact Prepare sidebar for use on smaller screens",
+                "display_name": "Compact Prepare Sidebar",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "PrepareStageCompactor",
+                "package_type": "plugin",
+                "package_version": "3.5.1",
+                "sdk_version": 5,
+                "website": "https://github.com/fieldOfView/PrepareStageCompactor"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
